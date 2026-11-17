@@ -1,0 +1,7 @@
+runs/
+models/
+whisper.cpp/
+__pycache__/
+*.ts
+*.mp4
+*.wav
